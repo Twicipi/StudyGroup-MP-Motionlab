@@ -36,7 +36,7 @@ git checkout <branch>	Pindah ke branch tertentu
 git merge <branch>	Menggabungkan branch tertentu ke branch aktif
 git clone <url>	Meng-copy repository remote ke komputer lokal
 
-4. Workflow Dasar
+4. Workflow Dasar :
   1. Clone repository dari GitHub:
   git clone https://github.com/username/repo.git
   2. Buat branch baru untuk fitur:
