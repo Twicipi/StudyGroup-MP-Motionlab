@@ -37,13 +37,13 @@ git merge <branch>	Menggabungkan branch tertentu ke branch aktif
 git clone <url>	Meng-copy repository remote ke komputer lokal
 
 4. Workflow Dasar
-1. Clone repository dari GitHub:
-git clone https://github.com/username/repo.git
-2. Buat branch baru untuk fitur:
-git checkout -b nama-fitur
-3. Kerjakan perubahan, kemudian add dan commit:
-git add .
-git commit -m "Menambahkan fitur X"
-5. Push branch ke remote:
-git push origin nama-fitur
-6. Buat Pull Request di GitHub untuk merge ke branch utama (main/master).
+  1. Clone repository dari GitHub:
+  git clone https://github.com/username/repo.git
+  2. Buat branch baru untuk fitur:
+  git checkout -b nama-fitur
+  3. Kerjakan perubahan, kemudian add dan commit:
+  git add .
+  git commit -m "Menambahkan fitur X"
+  5. Push branch ke remote:
+  git push origin nama-fitur
+  6. Buat Pull Request di GitHub untuk merge ke branch utama (main/master).
